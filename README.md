@@ -1,3 +1,7 @@
+<P>HIZKIA ALVONZ LOELAN</p>
+<b>19.11.2678</b>
+<br>
+<br>
 - 👋 Hi, I’m @hizkiaalvonz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -9,5 +13,4 @@ hizkiaalvonz/hizkiaalvonz is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 

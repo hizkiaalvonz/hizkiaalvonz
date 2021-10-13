@@ -1,5 +1,7 @@
-<P>HIZKIA ALVONZ LOELAN</p>
-<b>19.11.2678</b>
+<b>
+  <P>HIZKIA ALVONZ LOELAN</p>
+19.11.2678</b>
+
 <br>
 <br>
 - 👋 Hi, I’m @hizkiaalvonz
